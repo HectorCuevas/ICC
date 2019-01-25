@@ -1,0 +1,221 @@
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\ICC.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\ICC.pdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\ICC.ICC.apk
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\ICC.ICC-Signed.apk
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\EasySplashScreen.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Geolocator.Plugin.Abstractions.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Geolocator.Plugin.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Newtonsoft.Json.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\SQLite-net.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\SQLitePCL.raw.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Geolocator.Plugin.pdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Geolocator.Plugin.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Geolocator.Plugin.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Geolocator.Plugin.Abstractions.pdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Geolocator.Plugin.Abstractions.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\Newtonsoft.Json.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\SQLite-net.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\ICC.csprojResolveAssemblyReference.cache
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\ICC.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\ICC.pdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\android\bin\ICC.ICC.apk
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\layout\medicion.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\layout\caudal.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\layout\comentario.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\layout\listado.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\layout\listadocaudal.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\layout\resumen.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\layout\listadomenu.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\layout\inicio.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\layout\yoreporto.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\layout\main.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\values\strings.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\icon.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\values\style.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\acercade.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\aforo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\boletingral.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\boletines.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\enviarinfo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\infomonitoreo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\recibirinfo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\sinaforo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\yoreporto.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\redmet.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\sismasur.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\logo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\menu\confmenu.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\ic_action_content_save.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\salir.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\actualizar.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\menu\confmenugeneral.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\cambiar.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\enviarinfo2.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\yoreportoenvio.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\yoreportoenvio2.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\res\drawable\icc.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\R.cs.flag
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\uploadflags.txt
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Release\ICC.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\android\assets\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\android\assets\Geolocator.Plugin.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\android\assets\ICC.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Release\android\assets\SQLite-net.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\ICC.csprojResolveAssemblyReference.cache
+C:\Desarrollo\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Release\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Release\ICC.dll
+C:\Desarrollo\ICC\ICC\obj\Release\ICC.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\ICC.dll
+C:\Desarrollo\ICC\ICC\bin\Release\ICC.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\ICC.ICC.apk
+C:\Desarrollo\ICC\ICC\bin\Release\ICC.ICC-Signed.apk
+C:\Desarrollo\ICC\ICC\bin\Release\EasySplashScreen.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Geolocator.Plugin.Abstractions.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Geolocator.Plugin.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Newtonsoft.Json.dll
+C:\Desarrollo\ICC\ICC\bin\Release\SQLite-net.dll
+C:\Desarrollo\ICC\ICC\bin\Release\SQLitePCL.raw.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Desarrollo\ICC\ICC\bin\Release\Geolocator.Plugin.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\Geolocator.Plugin.xml
+C:\Desarrollo\ICC\ICC\bin\Release\Geolocator.Plugin.dll.mdb
+C:\Desarrollo\ICC\ICC\bin\Release\Geolocator.Plugin.Abstractions.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\Geolocator.Plugin.Abstractions.xml
+C:\Desarrollo\ICC\ICC\bin\Release\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Desarrollo\ICC\ICC\bin\Release\Newtonsoft.Json.xml
+C:\Desarrollo\ICC\ICC\bin\Release\SQLite-net.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\bin\ICC.ICC.apk
+C:\Desarrollo\ICC\ICC\obj\Release\res\layout\medicion.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\layout\caudal.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\layout\comentario.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\layout\listado.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\layout\listadocaudal.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\layout\resumen.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\layout\listadomenu.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\layout\inicio.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\layout\yoreporto.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\layout\main.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\values\strings.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\icon.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\values\style.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\acercade.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\aforo.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\boletingral.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\boletines.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\enviarinfo.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\infomonitoreo.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\recibirinfo.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\sinaforo.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\yoreporto.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\redmet.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\sismasur.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\logo.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\menu\confmenu.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\ic_action_content_save.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\salir.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\actualizar.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\menu\confmenugeneral.xml
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\cambiar.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\enviarinfo2.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\yoreportoenvio.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\yoreportoenvio2.png
+C:\Desarrollo\ICC\ICC\obj\Release\res\drawable\icc.png
+C:\Desarrollo\ICC\ICC\obj\Release\R.cs.flag
+C:\Desarrollo\ICC\ICC\obj\Release\uploadflags.txt
+C:\Desarrollo\ICC\ICC\bin\Release\Microsoft.CSharp.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\Mono.Android.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\Mono.CSharp.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\Mono.Data.Tds.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\Mono.Security.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\mscorlib.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.ComponentModel.Composition.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.Core.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.Data.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.Net.Http.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.Numerics.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.Runtime.Serialization.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.ServiceModel.Internals.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.Transactions.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.Web.Services.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.Xml.Linq.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.Xml.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.EnterpriseServices.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\System.IO.Compression.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\Microsoft.CSharp.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\Mono.Android.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\mscorlib.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.Core.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.Data.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.EnterpriseServices.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.IO.Compression.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.Net.Http.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.Web.Services.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.Xml.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.Xml.Linq.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.Runtime.Serialization.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.Numerics.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.Transactions.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\Mono.Data.Tds.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\Mono.Security.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\ICC.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\Geolocator.Plugin.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\SQLite-net.dll.mdb
+C:\Desarrollo\ICC\ICC\bin\Release\ICC.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\Geolocator.Plugin.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\ICC.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\SQLite-net.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\Microsoft.CSharp.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\Mono.Android.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\Mono.Security.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\mscorlib.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\System.Core.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\System.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\System.Runtime.Serialization.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\System.Web.Services.pdb
+C:\Desarrollo\ICC\ICC\obj\Release\android\assets\System.Xml.pdb
+C:\Desarrollo\ICC\ICC\bin\Release\ICC.dll
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\ICC.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\Geolocator.Plugin.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Release\linksrc\SQLite-net.dll.mdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:local="http://schemas.android.com/apk/res-auto">
+  <item 
+    android:id="@+id/menu_share"
+    android:icon="@drawable/Actualizar"
+    local:showAsAction="always"
+    android:title="Guardar" />
+  <item
+    android:id="@+id/salir_share"
+    android:icon="@drawable/Salir"
+    local:showAsAction="always"
+    android:title="Salir" />
+</menu>

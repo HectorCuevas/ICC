@@ -1,0 +1,319 @@
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\ICC.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\ICC.pdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\ICC.ICC.apk
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\ICC.ICC-Signed.apk
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\EasySplashScreen.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Geolocator.Plugin.Abstractions.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Geolocator.Plugin.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\SQLite-net.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\SQLitePCL.raw.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Geolocator.Plugin.pdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Geolocator.Plugin.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Geolocator.Plugin.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Geolocator.Plugin.Abstractions.pdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Geolocator.Plugin.Abstractions.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\SQLite-net.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\ICC.csprojResolveAssemblyReference.cache
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\ICC.dll
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\ICC.pdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\bin\ICC.ICC.apk
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\layout\medicion.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\layout\caudal.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\layout\comentario.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\layout\listado.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\layout\listadocaudal.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\layout\resumen.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\layout\listadomenu.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\layout\main.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\values\strings.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\drawable\icon.png
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\drawable\acerca.png
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\drawable\aforo.png
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\drawable\boletines.png
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\drawable\enviar.png
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\drawable\noaforo.png
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\drawable\recibir.png
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\drawable\yoreporto.png
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\drawable\logo.png
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\res\values\style.xml
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\R.cs.flag
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\uploadflags.txt
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\ICC.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Java.Interop.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Mono.Android.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\mscorlib.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.Core.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.Data.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.EnterpriseServices.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.Numerics.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.Transactions.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.Web.Services.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.Xml.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\Geolocator.Plugin.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\ICC.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\SQLite-net.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.EnterpriseServices.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.Web.Services.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\kevinramirez\Documents\Visual Studio 2017\Projects\ICC - copia\ICC\obj\Debug\ICC.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\ICC.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\ICC.pdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\ICC.ICC.apk
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\ICC.ICC-Signed.apk
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\EasySplashScreen.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Geolocator.Plugin.Abstractions.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Geolocator.Plugin.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\SQLite-net.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\SQLitePCL.raw.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Geolocator.Plugin.pdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Geolocator.Plugin.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Geolocator.Plugin.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Geolocator.Plugin.Abstractions.pdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Geolocator.Plugin.Abstractions.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\SQLite-net.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\ICC.csprojResolveAssemblyReference.cache
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\ICC.dll
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\ICC.pdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\android\bin\ICC.ICC.apk
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\layout\medicion.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\layout\caudal.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\layout\comentario.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\layout\listado.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\layout\listadocaudal.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\layout\resumen.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\layout\listadomenu.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\layout\inicio.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\layout\yoreporto.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\layout\main.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\values\strings.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\icon.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\values\style.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\acercade.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\aforo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\boletingral.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\boletines.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\enviarinfo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\infomonitoreo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\recibirinfo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\sinaforo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\yoreporto.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\redmet.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\sismasur.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\logo.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\menu\confmenu.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\ic_action_content_save.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\salir.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\actualizar.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\menu\confmenugeneral.xml
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\cambiar.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\enviarinfo2.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\yoreportoenvio.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\yoreportoenvio2.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\res\drawable\icc.png
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\R.cs.flag
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\uploadflags.txt
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\bin\Debug\ICC.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\android\assets\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\android\assets\Geolocator.Plugin.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\android\assets\ICC.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\android\assets\SQLite-net.dll.mdb
+C:\Users\kevinramirez\documents\visual studio 2017\Projects\ICC\ICC\obj\Debug\ICC.csproj.CoreCompileInputs.cache
+C:\Desarrollo\ICC\ICC\bin\Debug\ICC.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\ICC.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\ICC.ICC.apk
+C:\Desarrollo\ICC\ICC\bin\Debug\ICC.ICC-Signed.apk
+C:\Desarrollo\ICC\ICC\bin\Debug\EasySplashScreen.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Geolocator.Plugin.Abstractions.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Geolocator.Plugin.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\SQLite-net.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\SQLitePCL.raw.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Geolocator.Plugin.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\Geolocator.Plugin.xml
+C:\Desarrollo\ICC\ICC\bin\Debug\Geolocator.Plugin.dll.mdb
+C:\Desarrollo\ICC\ICC\bin\Debug\Geolocator.Plugin.Abstractions.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\Geolocator.Plugin.Abstractions.xml
+C:\Desarrollo\ICC\ICC\bin\Debug\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Desarrollo\ICC\ICC\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollo\ICC\ICC\bin\Debug\SQLite-net.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Debug\ICC.csprojResolveAssemblyReference.cache
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\dda502ec.proguard.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\proguard\a35ed7280.txt
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\a35ed728.proguard.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\66b78e27.proguard.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\60bb5a27.proguard.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\fab25ab7.proguard.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\f291fecb.proguard.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\proguard\8f1de9cb0.txt
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\8f1de9cb.proguard.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\XbdMerge\6ce5e490.proguard.stamp
+C:\Desarrollo\ICC\ICC\obj\Debug\ICC.dll
+C:\Desarrollo\ICC\ICC\obj\Debug\ICC.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\android\bin\ICC.ICC.apk
+C:\Desarrollo\ICC\ICC\obj\Debug\res\layout\medicion.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\layout\caudal.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\layout\comentario.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\layout\listado.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\layout\listadocaudal.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\layout\resumen.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\layout\listadomenu.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\layout\inicio.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\layout\yoreporto.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\layout\main.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\values\strings.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\icon.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\values\style.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\acercade.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\aforo.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\boletingral.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\boletines.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\enviarinfo.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\infomonitoreo.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\recibirinfo.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\sinaforo.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\yoreporto.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\redmet.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\sismasur.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\logo.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\menu\confmenu.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\ic_action_content_save.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\salir.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\actualizar.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\menu\confmenugeneral.xml
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\cambiar.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\enviarinfo2.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\yoreportoenvio.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\yoreportoenvio2.png
+C:\Desarrollo\ICC\ICC\obj\Debug\res\drawable\icc.png
+C:\Desarrollo\ICC\ICC\obj\Debug\R.cs.flag
+C:\Desarrollo\ICC\ICC\obj\Debug\uploadflags.txt
+C:\Desarrollo\ICC\ICC\bin\Debug\Mono.CSharp.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\ICC.dll
+C:\Desarrollo\ICC\ICC\bin\Debug\Microsoft.CSharp.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\Mono.Android.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\mscorlib.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.Core.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.Data.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.EnterpriseServices.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.IO.Compression.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.Net.Http.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.Web.Services.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.Xml.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.Xml.Linq.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.Runtime.Serialization.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.Numerics.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.Transactions.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\Mono.Data.Tds.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\Mono.Security.pdb
+C:\Desarrollo\ICC\ICC\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\Mono.Android.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\mscorlib.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.Core.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.Data.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.EnterpriseServices.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.Xml.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.Numerics.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.Transactions.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\Mono.Security.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\ICC.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\Geolocator.Plugin.Abstractions.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\Geolocator.Plugin.dll.mdb
+C:\Desarrollo\ICC\ICC\obj\Debug\linksrc\SQLite-net.dll.mdb

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="FncObtenerDatos">
+        <s:complexType />
+      </s:element>
+      <s:element name="FncObtenerDatosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FncObtenerDatosResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SubGuardarInformacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lJsonTransaccion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SubGuardarInformacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SubGuardarInformacionResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SubGuardarInformacionYoReporto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lJsonTransaccion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SubGuardarInformacionYoReportoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SubGuardarInformacionYoReportoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="FncObtenerDatosSoapIn">
+    <wsdl:part name="parameters" element="tns:FncObtenerDatos" />
+  </wsdl:message>
+  <wsdl:message name="FncObtenerDatosSoapOut">
+    <wsdl:part name="parameters" element="tns:FncObtenerDatosResponse" />
+  </wsdl:message>
+  <wsdl:message name="SubGuardarInformacionSoapIn">
+    <wsdl:part name="parameters" element="tns:SubGuardarInformacion" />
+  </wsdl:message>
+  <wsdl:message name="SubGuardarInformacionSoapOut">
+    <wsdl:part name="parameters" element="tns:SubGuardarInformacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="SubGuardarInformacionYoReportoSoapIn">
+    <wsdl:part name="parameters" element="tns:SubGuardarInformacionYoReporto" />
+  </wsdl:message>
+  <wsdl:message name="SubGuardarInformacionYoReportoSoapOut">
+    <wsdl:part name="parameters" element="tns:SubGuardarInformacionYoReportoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WsSincronizacionSoap">
+    <wsdl:operation name="FncObtenerDatos">
+      <wsdl:input message="tns:FncObtenerDatosSoapIn" />
+      <wsdl:output message="tns:FncObtenerDatosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SubGuardarInformacion">
+      <wsdl:input message="tns:SubGuardarInformacionSoapIn" />
+      <wsdl:output message="tns:SubGuardarInformacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SubGuardarInformacionYoReporto">
+      <wsdl:input message="tns:SubGuardarInformacionYoReportoSoapIn" />
+      <wsdl:output message="tns:SubGuardarInformacionYoReportoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WsSincronizacionSoap" type="tns:WsSincronizacionSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="FncObtenerDatos">
+      <soap:operation soapAction="http://tempuri.org/FncObtenerDatos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SubGuardarInformacion">
+      <soap:operation soapAction="http://tempuri.org/SubGuardarInformacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SubGuardarInformacionYoReporto">
+      <soap:operation soapAction="http://tempuri.org/SubGuardarInformacionYoReporto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WsSincronizacionSoap12" type="tns:WsSincronizacionSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="FncObtenerDatos">
+      <soap12:operation soapAction="http://tempuri.org/FncObtenerDatos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SubGuardarInformacion">
+      <soap12:operation soapAction="http://tempuri.org/SubGuardarInformacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SubGuardarInformacionYoReporto">
+      <soap12:operation soapAction="http://tempuri.org/SubGuardarInformacionYoReporto" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WsSincronizacion">
+    <wsdl:port name="WsSincronizacionSoap" binding="tns:WsSincronizacionSoap">
+      <soap:address location="http://138.128.150.200/ICC/WsSincronizacion.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WsSincronizacionSoap12" binding="tns:WsSincronizacionSoap12">
+      <soap12:address location="http://138.128.150.200/ICC/WsSincronizacion.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
